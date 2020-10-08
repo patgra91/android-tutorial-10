@@ -7,3 +7,5 @@ Unit 2: User experience
 4.1: Clickable images
 
 Droid Cafe
+
+4.2: Input controls
